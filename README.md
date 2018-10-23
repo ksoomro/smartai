@@ -1,0 +1,2 @@
+# smartai
+smartai projects code
